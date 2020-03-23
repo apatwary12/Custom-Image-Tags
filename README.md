@@ -5,7 +5,8 @@ Wordpress plugin to create Responsive slideshows with custom image tagging
 note* Plugin requires having Custom Ready Meta installed on your wordpress site. *
 
 Pre-requisite
-Custom-Meta-Plugin: https://github.com/apatwary12/Custom-Ready-Meta
+Custom-Meta-Plugin: https://github.com/apatwary12/Custom-Ready-Meta 
+
 Jquery (2.2.4 or higher): https://code.jquery.com/
 
 
