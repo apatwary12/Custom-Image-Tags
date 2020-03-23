@@ -2,10 +2,15 @@
 Wordpress plugin to create Responsive slideshows with custom image tagging
 
 
-Plugin requires having Custom Ready Meta installed on your wordpress site.
-https://github.com/apatwary12/Custom-Ready-Meta
+note* Plugin requires having Custom Ready Meta installed on your wordpress site. *
+
+Pre-requisite
+Custom-Meta-Plugin: https://github.com/apatwary12/Custom-Ready-Meta
+Jquery (2.2.4 or higher): https://code.jquery.com/
 
 
+
+-----------------------------Blog Post ---------------------------------------------------
 
 Summary:
 Within my first two months of working at a smaller ad agency I was given a wordpress site to create a slider that had “Tagging” capabilities. The client was a mid-sized home developer that also included a Design center in which their buyers are able to select their proprietary line of home features for their home build. In order for this client to display their product line in a clear fashion without listing out products in a default e-commerce way, the client requested that the images in their slideshow be “tag-able” where the client’s buyer would be allowed to select a tag that was on the image and see the exact product that was in the slideshow.
